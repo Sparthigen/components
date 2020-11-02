@@ -1,0 +1,30 @@
+
+
+
+.ProfilPic,h1,.adress{ 
+    display: flex;
+    justify-content: center;
+align-content: center;
+}
+
+
+
+h1{
+color: rgb(190, 184, 184);
+
+}
+
+
+
+.adress{
+
+    color: rgb(190, 184, 184);
+font-size: large;
+
+}
+
+
+.ProfilPic{
+margin-top: 6%;
+opacity: 40%;
+}

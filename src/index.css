@@ -1,0 +1,12 @@
+body {
+background-image: url(/src/unnamed.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
